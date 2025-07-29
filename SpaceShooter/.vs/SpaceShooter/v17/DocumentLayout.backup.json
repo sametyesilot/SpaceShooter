@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\assets\\scripts\\genel\\objectmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\genel\\objectmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\assets\\scripts\\background\\planetspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\background\\planetspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|c:\\users\\samet\\desktop\\unity\\spaceshooter\\assets\\scripts\\dusman\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dusman\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|c:\\users\\samet\\desktop\\unity\\spaceshooter\\assets\\scripts\\genel\\particledestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\genel\\particledestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\assets\\scripts\\dusman\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dusman\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\assets\\scripts\\dusman\\enemyposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dusman\\enemyposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\assets\\scripts\\dusman\\damagecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dusman\\damagecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\assets\\scripts\\dusman\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dusman\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\assets\\scripts\\background\\backgroundrepeating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\background\\backgroundrepeating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\assets\\scripts\\mainmenu\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\assets\\scripts\\player\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\assets\\scripts\\player\\playercontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\Assets\\Scripts\\Dusman\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Dusman\\EnemySpawner.cs",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\Assets\\Scripts\\Dusman\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Dusman\\EnemySpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T19:02:00.074Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParticleDestroy.cs",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\Assets\\Scripts\\Genel\\ParticleDestroy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Genel\\ParticleDestroy.cs",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\Assets\\Scripts\\Genel\\ParticleDestroy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Genel\\ParticleDestroy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:59:46.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\Assets\\Scripts\\Dusman\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Dusman\\EnemyController.cs",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\Assets\\Scripts\\Dusman\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Dusman\\EnemyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T19:37:16.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DamageControl.cs",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\Assets\\Scripts\\Dusman\\DamageControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Dusman\\DamageControl.cs",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\Assets\\Scripts\\Dusman\\DamageControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Dusman\\DamageControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T13:11:18.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ObjectMover.cs",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\Assets\\Scripts\\Genel\\ObjectMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Genel\\ObjectMover.cs",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\Assets\\Scripts\\Genel\\ObjectMover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Genel\\ObjectMover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T09:42:46.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlanetSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\Assets\\Scripts\\Background\\PlanetSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Background\\PlanetSpawner.cs",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\Assets\\Scripts\\Background\\PlanetSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Background\\PlanetSpawner.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T10:26:08.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyPosition.cs",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\Assets\\Scripts\\Dusman\\EnemyPosition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Dusman\\EnemyPosition.cs",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\Assets\\Scripts\\Dusman\\EnemyPosition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Dusman\\EnemyPosition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:31:15.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LevelController.cs",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\Assets\\Scripts\\Dusman\\LevelController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Dusman\\LevelController.cs",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\Assets\\Scripts\\Dusman\\LevelController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Dusman\\LevelController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:01:53.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T13:02:11.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BackgroundRepeating.cs",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\Assets\\Scripts\\Background\\BackgroundRepeating.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Background\\BackgroundRepeating.cs",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\Assets\\Scripts\\Background\\BackgroundRepeating.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Background\\BackgroundRepeating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T09:47:12.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T16:33:28.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainMenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\Assets\\Scripts\\MainMenu\\MainMenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu\\MainMenuManager.cs",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\Assets\\Scripts\\MainMenu\\MainMenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu\\MainMenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:42:32.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BulletController.cs",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\Assets\\Scripts\\Player\\BulletController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\BulletController.cs",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\Assets\\Scripts\\Player\\BulletController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\BulletController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T09:16:15.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayerControler.cs",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\Assets\\Scripts\\Player\\PlayerControler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerControler.cs",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\unity\\SpaceShooter\\Assets\\Scripts\\Player\\PlayerControler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerControler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAawBQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T08:25:11.685Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
